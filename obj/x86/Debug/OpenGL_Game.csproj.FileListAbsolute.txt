@@ -1,0 +1,334 @@
+D:\8 new\obj\x86\Debug\OpenGL_Game.csprojResolveAssemblyReference.cache
+D:\8 new\obj\x86\Debug\OpenGL_Game.csproj.CoreCompileInputs.cache
+D:\8 new\bin\WindowsGL\Debug\Audio\battle.wav
+D:\8 new\bin\WindowsGL\Debug\Audio\drone_disable.wav
+D:\8 new\bin\WindowsGL\Debug\Audio\drone_touch.wav
+D:\8 new\bin\WindowsGL\Debug\Audio\item_collect.wav
+D:\8 new\bin\WindowsGL\Debug\Audio\player_shot.wav
+D:\8 new\bin\WindowsGL\Debug\Audio\power_item_sound.wav
+D:\8 new\bin\WindowsGL\Debug\Geometry\CubeGeometry.txt
+D:\8 new\bin\WindowsGL\Debug\Geometry\QuadGeometry.txt
+D:\8 new\bin\WindowsGL\Debug\Textures\Ammo.png
+D:\8 new\bin\WindowsGL\Debug\Textures\BrickWall\Diffuse.png
+D:\8 new\bin\WindowsGL\Debug\Textures\BrickWall\Normal.jpg
+D:\8 new\bin\WindowsGL\Debug\Textures\BrickWall\Normal2.jpg
+D:\8 new\bin\WindowsGL\Debug\Textures\Ground\diffuse.png
+D:\8 new\bin\WindowsGL\Debug\Textures\Ground\normal.png
+D:\8 new\bin\WindowsGL\Debug\Textures\heart.png
+D:\8 new\bin\WindowsGL\Debug\Textures\Minimap\blackDot.png
+D:\8 new\bin\WindowsGL\Debug\Textures\Minimap\greenDot.png
+D:\8 new\bin\WindowsGL\Debug\Textures\Minimap\minimap.png
+D:\8 new\bin\WindowsGL\Debug\Textures\Minimap\redDot.png
+D:\8 new\bin\WindowsGL\Debug\Textures\Oak.png
+D:\8 new\bin\WindowsGL\Debug\Textures\robot.png
+D:\8 new\bin\WindowsGL\Debug\Textures\StoneFloor\diffuse.jpg
+D:\8 new\bin\WindowsGL\Debug\Textures\StoneFloor\normal.png
+D:\8 new\bin\WindowsGL\Debug\Textures\StoneFloor\specular.png
+D:\8 new\bin\WindowsGL\Debug\Components\ComponentAmmo.cs
+D:\8 new\bin\WindowsGL\Debug\Components\ComponentCollisionLine.cs
+D:\8 new\bin\WindowsGL\Debug\Components\ComponentCollisionSphere.cs
+D:\8 new\bin\WindowsGL\Debug\Components\ComponentGeometry.cs
+D:\8 new\bin\WindowsGL\Debug\Components\ComponentHealth.cs
+D:\8 new\bin\WindowsGL\Debug\Components\ComponentInput.cs
+D:\8 new\bin\WindowsGL\Debug\Components\ComponentPosition.cs
+D:\8 new\bin\WindowsGL\Debug\Components\ComponentRotation.cs
+D:\8 new\bin\WindowsGL\Debug\Components\ComponentScale.cs
+D:\8 new\bin\WindowsGL\Debug\Components\ComponentTexture.cs
+D:\8 new\bin\WindowsGL\Debug\Components\ComponentVelocity.cs
+D:\8 new\bin\WindowsGL\Debug\Components\ComponentWeapon.cs
+D:\8 new\bin\WindowsGL\Debug\Components\IComponent.cs
+D:\8 new\bin\WindowsGL\Debug\Level1.cs
+D:\8 new\bin\WindowsGL\Debug\MazeLevel.cs
+D:\8 new\bin\WindowsGL\Debug\Objects\Camera.cs
+D:\8 new\bin\WindowsGL\Debug\Objects\Entity.cs
+D:\8 new\bin\WindowsGL\Debug\Managers\EntityManager.cs
+D:\8 new\bin\WindowsGL\Debug\Objects\Geometry.cs
+D:\8 new\bin\WindowsGL\Debug\MyGame.cs
+D:\8 new\bin\WindowsGL\Debug\Main.cs
+D:\8 new\bin\WindowsGL\Debug\Managers\ResourceManager.cs
+D:\8 new\bin\WindowsGL\Debug\Systems\ISystem.cs
+D:\8 new\bin\WindowsGL\Debug\Managers\SystemManager.cs
+D:\8 new\bin\WindowsGL\Debug\Systems\SystemInput.cs
+D:\8 new\bin\WindowsGL\Debug\Systems\SystemPhysics.cs
+D:\8 new\bin\WindowsGL\Debug\Systems\SystemRender.cs
+D:\8 new\bin\WindowsGL\Debug\Geometry\SquareGeometry.txt
+D:\8 new\bin\WindowsGL\Debug\Geometry\TriangleGeometry.txt
+D:\8 new\bin\WindowsGL\Debug\Shaders\cubeMapFS.glsl
+D:\8 new\bin\WindowsGL\Debug\Shaders\cubeMapVS.glsl
+D:\8 new\bin\WindowsGL\Debug\Shaders\fs.glsl
+D:\8 new\bin\WindowsGL\Debug\Shaders\minimapFS.glsl
+D:\8 new\bin\WindowsGL\Debug\Shaders\minimapVS.glsl
+D:\8 new\bin\WindowsGL\Debug\Shaders\vs.glsl
+D:\8 new\bin\WindowsGL\Debug\OpenGL_Game.exe
+D:\8 new\bin\WindowsGL\Debug\OpenGL_Game.pdb
+D:\8 new\bin\WindowsGL\Debug\OpenTK.dll
+D:\8 new\bin\WindowsGL\Debug\OpenTK.xml
+D:\8 new\obj\x86\Debug\OpenGL_Game.exe
+D:\8 new\obj\x86\Debug\OpenGL_Game.pdb
+D:\Release New\bin\WindowsGL\Debug\Audio\battle.wav
+D:\Release New\bin\WindowsGL\Debug\Audio\drone_disable.wav
+D:\Release New\bin\WindowsGL\Debug\Audio\drone_touch.wav
+D:\Release New\bin\WindowsGL\Debug\Audio\item_collect.wav
+D:\Release New\bin\WindowsGL\Debug\Audio\player_shot.wav
+D:\Release New\bin\WindowsGL\Debug\Audio\power_item_sound.wav
+D:\Release New\bin\WindowsGL\Debug\Geometry\CubeGeometry.txt
+D:\Release New\bin\WindowsGL\Debug\Textures\Ammo.png
+D:\Release New\bin\WindowsGL\Debug\Textures\BrickWall\Diffuse.png
+D:\Release New\bin\WindowsGL\Debug\Textures\BrickWall\Normal.jpg
+D:\Release New\bin\WindowsGL\Debug\Textures\BrickWall\Normal2.jpg
+D:\Release New\bin\WindowsGL\Debug\Textures\Ground\diffuse.png
+D:\Release New\bin\WindowsGL\Debug\Textures\Ground\normal.png
+D:\Release New\bin\WindowsGL\Debug\Textures\heart.png
+D:\Release New\bin\WindowsGL\Debug\Textures\Minimap\blackDot.png
+D:\Release New\bin\WindowsGL\Debug\Textures\Minimap\greenDot.png
+D:\Release New\bin\WindowsGL\Debug\Textures\Minimap\minimap.png
+D:\Release New\bin\WindowsGL\Debug\Textures\Minimap\redDot.png
+D:\Release New\bin\WindowsGL\Debug\Textures\Oak.png
+D:\Release New\bin\WindowsGL\Debug\Textures\robot.png
+D:\Release New\bin\WindowsGL\Debug\Textures\StoneFloor\diffuse.jpg
+D:\Release New\bin\WindowsGL\Debug\Textures\StoneFloor\normal.png
+D:\Release New\bin\WindowsGL\Debug\Textures\StoneFloor\specular.png
+D:\Release New\bin\WindowsGL\Debug\Components\ComponentAmmo.cs
+D:\Release New\bin\WindowsGL\Debug\Components\ComponentCollisionLine.cs
+D:\Release New\bin\WindowsGL\Debug\Components\ComponentCollisionSphere.cs
+D:\Release New\bin\WindowsGL\Debug\Components\ComponentGeometry.cs
+D:\Release New\bin\WindowsGL\Debug\Components\ComponentHealth.cs
+D:\Release New\bin\WindowsGL\Debug\Components\ComponentInput.cs
+D:\Release New\bin\WindowsGL\Debug\Components\ComponentPosition.cs
+D:\Release New\bin\WindowsGL\Debug\Components\ComponentRotation.cs
+D:\Release New\bin\WindowsGL\Debug\Components\ComponentScale.cs
+D:\Release New\bin\WindowsGL\Debug\Components\ComponentTexture.cs
+D:\Release New\bin\WindowsGL\Debug\Components\ComponentVelocity.cs
+D:\Release New\bin\WindowsGL\Debug\Components\ComponentWeapon.cs
+D:\Release New\bin\WindowsGL\Debug\Components\IComponent.cs
+D:\Release New\bin\WindowsGL\Debug\Level1.cs
+D:\Release New\bin\WindowsGL\Debug\Objects\Camera.cs
+D:\Release New\bin\WindowsGL\Debug\Objects\Entity.cs
+D:\Release New\bin\WindowsGL\Debug\Managers\EntityManager.cs
+D:\Release New\bin\WindowsGL\Debug\Objects\Geometry.cs
+D:\Release New\bin\WindowsGL\Debug\Main.cs
+D:\Release New\bin\WindowsGL\Debug\Systems\ISystem.cs
+D:\Release New\bin\WindowsGL\Debug\Managers\SystemManager.cs
+D:\Release New\bin\WindowsGL\Debug\Systems\SystemInput.cs
+D:\Release New\bin\WindowsGL\Debug\Systems\SystemPhysics.cs
+D:\Release New\bin\WindowsGL\Debug\Systems\SystemRender.cs
+D:\Release New\bin\WindowsGL\Debug\Geometry\SquareGeometry.txt
+D:\Release New\bin\WindowsGL\Debug\Geometry\TriangleGeometry.txt
+D:\Release New\bin\WindowsGL\Debug\Shaders\cubeMapFS.glsl
+D:\Release New\bin\WindowsGL\Debug\Shaders\cubeMapVS.glsl
+D:\Release New\bin\WindowsGL\Debug\Shaders\fs.glsl
+D:\Release New\bin\WindowsGL\Debug\Shaders\minimapFS.glsl
+D:\Release New\bin\WindowsGL\Debug\Shaders\minimapVS.glsl
+D:\Release New\bin\WindowsGL\Debug\Shaders\vs.glsl
+D:\Release New\bin\WindowsGL\Debug\Geometry\QuadGeometry.txt
+D:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\Skybox1\back.png
+D:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\Skybox1\bottom.png
+D:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\Skybox1\front.png
+D:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\Skybox1\left.png
+D:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\Skybox1\right.png
+D:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\Skybox1\top.png
+D:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\skybox2\back.png
+D:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\skybox2\bottom.png
+D:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\skybox2\front.png
+D:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\skybox2\left.png
+D:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\skybox2\right.png
+D:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\skybox2\top.png
+D:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\Skybox3\back.png
+D:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\Skybox3\bottom.png
+D:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\Skybox3\front.png
+D:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\Skybox3\left.png
+D:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\Skybox3\right.png
+D:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\Skybox3\top.png
+D:\Release New\bin\WindowsGL\Debug\Textures\Overgrown\diffuse.png
+D:\Release New\bin\WindowsGL\Debug\Textures\Overgrown\normal.png
+D:\Release New\bin\WindowsGL\Debug\MazeLevel.cs
+D:\Release New\bin\WindowsGL\Debug\MyGame.cs
+D:\Release New\bin\WindowsGL\Debug\Managers\ResourceManager.cs
+D:\Release New\bin\WindowsGL\Debug\OpenGL_Game.exe
+D:\Release New\bin\WindowsGL\Debug\OpenGL_Game.pdb
+D:\Release New\bin\WindowsGL\Debug\OpenTK.dll
+D:\Release New\bin\WindowsGL\Debug\OpenTK.xml
+D:\Release New\obj\x86\Debug\OpenGL_Game.csprojResolveAssemblyReference.cache
+D:\Release New\obj\x86\Debug\OpenGL_Game.csproj.CoreCompileInputs.cache
+D:\Release New\obj\x86\Debug\OpenGL_Game.exe
+D:\Release New\obj\x86\Debug\OpenGL_Game.pdb
+D:\Release New\bin\WindowsGL\Debug\Textures\drone\diffuse.png
+D:\Release New\bin\WindowsGL\Debug\Textures\drone\normal.png
+E:\Release New\bin\WindowsGL\Debug\Audio\battle.wav
+E:\Release New\bin\WindowsGL\Debug\Audio\drone_disable.wav
+E:\Release New\bin\WindowsGL\Debug\Audio\drone_touch.wav
+E:\Release New\bin\WindowsGL\Debug\Audio\item_collect.wav
+E:\Release New\bin\WindowsGL\Debug\Audio\player_shot.wav
+E:\Release New\bin\WindowsGL\Debug\Audio\power_item_sound.wav
+E:\Release New\bin\WindowsGL\Debug\Geometry\CubeGeometry.txt
+E:\Release New\bin\WindowsGL\Debug\Geometry\QuadGeometry.txt
+E:\Release New\bin\WindowsGL\Debug\Textures\Ammo.png
+E:\Release New\bin\WindowsGL\Debug\Textures\BrickWall\Diffuse.png
+E:\Release New\bin\WindowsGL\Debug\Textures\BrickWall\Normal.jpg
+E:\Release New\bin\WindowsGL\Debug\Textures\BrickWall\Normal2.jpg
+E:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\Skybox1\back.png
+E:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\Skybox1\bottom.png
+E:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\Skybox1\front.png
+E:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\Skybox1\left.png
+E:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\Skybox1\right.png
+E:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\Skybox1\top.png
+E:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\skybox2\back.png
+E:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\skybox2\bottom.png
+E:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\skybox2\front.png
+E:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\skybox2\left.png
+E:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\skybox2\right.png
+E:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\skybox2\top.png
+E:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\Skybox3\back.png
+E:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\Skybox3\bottom.png
+E:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\Skybox3\front.png
+E:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\Skybox3\left.png
+E:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\Skybox3\right.png
+E:\Release New\bin\WindowsGL\Debug\Textures\CubeMap\Skybox3\top.png
+E:\Release New\bin\WindowsGL\Debug\Textures\drone\diffuse.png
+E:\Release New\bin\WindowsGL\Debug\Textures\drone\normal.png
+E:\Release New\bin\WindowsGL\Debug\Textures\Ground\diffuse.png
+E:\Release New\bin\WindowsGL\Debug\Textures\Ground\normal.png
+E:\Release New\bin\WindowsGL\Debug\Textures\heart.png
+E:\Release New\bin\WindowsGL\Debug\Textures\Minimap\blackDot.png
+E:\Release New\bin\WindowsGL\Debug\Textures\Minimap\greenDot.png
+E:\Release New\bin\WindowsGL\Debug\Textures\Minimap\minimap.png
+E:\Release New\bin\WindowsGL\Debug\Textures\Minimap\redDot.png
+E:\Release New\bin\WindowsGL\Debug\Textures\Oak.png
+E:\Release New\bin\WindowsGL\Debug\Textures\Overgrown\diffuse.png
+E:\Release New\bin\WindowsGL\Debug\Textures\Overgrown\normal.png
+E:\Release New\bin\WindowsGL\Debug\Textures\robot.png
+E:\Release New\bin\WindowsGL\Debug\Textures\StoneFloor\diffuse.jpg
+E:\Release New\bin\WindowsGL\Debug\Textures\StoneFloor\normal.png
+E:\Release New\bin\WindowsGL\Debug\Textures\StoneFloor\specular.png
+E:\Release New\bin\WindowsGL\Debug\Components\ComponentAmmo.cs
+E:\Release New\bin\WindowsGL\Debug\Components\ComponentCollisionLine.cs
+E:\Release New\bin\WindowsGL\Debug\Components\ComponentCollisionSphere.cs
+E:\Release New\bin\WindowsGL\Debug\Components\ComponentGeometry.cs
+E:\Release New\bin\WindowsGL\Debug\Components\ComponentHealth.cs
+E:\Release New\bin\WindowsGL\Debug\Components\ComponentInput.cs
+E:\Release New\bin\WindowsGL\Debug\Components\ComponentPosition.cs
+E:\Release New\bin\WindowsGL\Debug\Components\ComponentRotation.cs
+E:\Release New\bin\WindowsGL\Debug\Components\ComponentScale.cs
+E:\Release New\bin\WindowsGL\Debug\Components\ComponentTexture.cs
+E:\Release New\bin\WindowsGL\Debug\Components\ComponentVelocity.cs
+E:\Release New\bin\WindowsGL\Debug\Components\ComponentWeapon.cs
+E:\Release New\bin\WindowsGL\Debug\Components\IComponent.cs
+E:\Release New\bin\WindowsGL\Debug\Level1.cs
+E:\Release New\bin\WindowsGL\Debug\MazeLevel.cs
+E:\Release New\bin\WindowsGL\Debug\Objects\Camera.cs
+E:\Release New\bin\WindowsGL\Debug\Objects\Entity.cs
+E:\Release New\bin\WindowsGL\Debug\Managers\EntityManager.cs
+E:\Release New\bin\WindowsGL\Debug\Objects\Geometry.cs
+E:\Release New\bin\WindowsGL\Debug\MyGame.cs
+E:\Release New\bin\WindowsGL\Debug\Main.cs
+E:\Release New\bin\WindowsGL\Debug\Managers\ResourceManager.cs
+E:\Release New\bin\WindowsGL\Debug\Systems\ISystem.cs
+E:\Release New\bin\WindowsGL\Debug\Managers\SystemManager.cs
+E:\Release New\bin\WindowsGL\Debug\Systems\SystemInput.cs
+E:\Release New\bin\WindowsGL\Debug\Systems\SystemPhysics.cs
+E:\Release New\bin\WindowsGL\Debug\Systems\SystemRender.cs
+E:\Release New\bin\WindowsGL\Debug\Geometry\SquareGeometry.txt
+E:\Release New\bin\WindowsGL\Debug\Geometry\TriangleGeometry.txt
+E:\Release New\bin\WindowsGL\Debug\Shaders\cubeMapFS.glsl
+E:\Release New\bin\WindowsGL\Debug\Shaders\cubeMapVS.glsl
+E:\Release New\bin\WindowsGL\Debug\Shaders\fs.glsl
+E:\Release New\bin\WindowsGL\Debug\Shaders\minimapFS.glsl
+E:\Release New\bin\WindowsGL\Debug\Shaders\minimapVS.glsl
+E:\Release New\bin\WindowsGL\Debug\Shaders\vs.glsl
+E:\Release New\bin\WindowsGL\Debug\OpenGL_Game.exe
+E:\Release New\bin\WindowsGL\Debug\OpenGL_Game.pdb
+E:\Release New\bin\WindowsGL\Debug\OpenTK.dll
+E:\Release New\bin\WindowsGL\Debug\OpenTK.xml
+E:\Release New\obj\x86\Debug\OpenGL_Game.csprojResolveAssemblyReference.cache
+E:\Release New\obj\x86\Debug\OpenGL_Game.csproj.CoreCompileInputs.cache
+E:\Release New\obj\x86\Debug\OpenGL_Game.exe
+E:\Release New\obj\x86\Debug\OpenGL_Game.pdb
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Audio\battle.wav
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Audio\drone_disable.wav
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Audio\drone_touch.wav
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Audio\item_collect.wav
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Audio\player_shot.wav
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Audio\power_item_sound.wav
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Geometry\CubeGeometry.txt
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Geometry\QuadGeometry.txt
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\Ammo.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\BrickWall\Diffuse.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\BrickWall\Normal.jpg
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\BrickWall\Normal2.jpg
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\CubeMap\Skybox1\back.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\CubeMap\Skybox1\bottom.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\CubeMap\Skybox1\front.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\CubeMap\Skybox1\left.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\CubeMap\Skybox1\right.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\CubeMap\Skybox1\top.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\CubeMap\skybox2\back.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\CubeMap\skybox2\bottom.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\CubeMap\skybox2\front.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\CubeMap\skybox2\left.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\CubeMap\skybox2\right.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\CubeMap\skybox2\top.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\CubeMap\Skybox3\back.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\CubeMap\Skybox3\bottom.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\CubeMap\Skybox3\front.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\CubeMap\Skybox3\left.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\CubeMap\Skybox3\right.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\CubeMap\Skybox3\top.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\drone\diffuse.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\drone\normal.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\Ground\diffuse.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\Ground\normal.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\heart.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\Minimap\blackDot.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\Minimap\greenDot.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\Minimap\minimap.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\Minimap\redDot.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\Oak.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\Overgrown\diffuse.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\Overgrown\normal.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\robot.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\StoneFloor\diffuse.jpg
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\StoneFloor\normal.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Textures\StoneFloor\specular.png
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Components\ComponentAmmo.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Components\ComponentCollisionLine.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Components\ComponentCollisionSphere.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Components\ComponentGeometry.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Components\ComponentHealth.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Components\ComponentInput.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Components\ComponentPosition.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Components\ComponentRotation.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Components\ComponentScale.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Components\ComponentTexture.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Components\ComponentVelocity.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Components\ComponentWeapon.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Components\IComponent.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Level1.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\MazeLevel.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Objects\Camera.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Objects\Entity.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Managers\EntityManager.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Objects\Geometry.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\MyGame.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Main.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Managers\ResourceManager.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Systems\ISystem.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Managers\SystemManager.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Systems\SystemInput.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Systems\SystemPhysics.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Systems\SystemRender.cs
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Geometry\SquareGeometry.txt
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Geometry\TriangleGeometry.txt
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Shaders\cubeMapFS.glsl
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Shaders\cubeMapVS.glsl
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Shaders\fs.glsl
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Shaders\minimapFS.glsl
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Shaders\minimapVS.glsl
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\Shaders\vs.glsl
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\OpenGL_Game.exe
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\OpenGL_Game.pdb
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\OpenTK.dll
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\bin\WindowsGL\Debug\OpenTK.xml
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\obj\x86\Debug\OpenGL_Game.csprojResolveAssemblyReference.cache
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\obj\x86\Debug\OpenGL_Game.csproj.CoreCompileInputs.cache
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\obj\x86\Debug\OpenGL_Game.exe
+D:\Uni staff\3th Year\Games Programming and Advanced Graphics\Group 8 - Working\Group 8 - Working\obj\x86\Debug\OpenGL_Game.pdb
